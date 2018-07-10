@@ -1,0 +1,10 @@
+HUAWEI*China*1987
+XIAOMI*China*2010
+SAMSUNG*Corea del sur*1938
+LG*Corea del sur*1958
+BQ*España*2009
+MOTOROLA*Estados Unidos*1928
+NOKIA*Finlandia*1865
+WIKO*Francia*2011
+SONY*Japon*1946
+HTC*Taiwan*1997

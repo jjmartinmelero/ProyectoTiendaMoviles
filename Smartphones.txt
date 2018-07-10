@@ -1,0 +1,21 @@
+1*HUAWEI P10*Android 7.0 Nougat*Kirin 960*Mali G71*649.00*01/01/2017
+1*HUAWEI P8 LITE*Android 7.0 Nougat*Kirin 655*Mali T830 MP2*205.00*12/01/2017
+1*HUAWEI Y5 II*Android 5.1 Lollipop*MediaTek MT6582*Mali ft400*106.00*01/01/2016
+2*XIAOMI Mi6*Android 7.0 Nougat*Qualcomm SnapDragon 835*Adreno 540*549.95*20/07/2016
+2*XIAOMI REDMI 4 PRO*Android 6.0 Marshmallow*Qualcomm Snapdragon 625*Adreno 506*209.95*06/08/2016
+2*XIAOMI Mi5s PLUS*Android 6.0 Marshmallow*Qualcomm Snapdragon 821*Adreno 530*469.95*01/12/2016
+3*SAMSUNG GALAXY A5*Android 4.4.4 KitKat*Qualcomm Snapdragon 410*Adreno 306*274.80*01/01/2015
+3*SAMSUNG GALAXY J3*Android 5.1.1 Lollipop*Qualcomm Snapdragon 400*Mali 400*117.90*01/01/2016
+3*SAMSUNG GALAXY S8*Android 7.0 Nougat*Qualcomm Snapdragon 835*Adreno 540*725.00*01/01/2017
+4*LG X VENTURE*Android 7.0 Nougat*Qualcomm Snapdragon 435*Adreno 505*300.00*01/05/2017
+4*LG G6*Android 7.0 Nougat*Qualcomm Snapdragon 821*Adreno 530*567.00*01/02/2017
+5*BQ AQUARIS U*Android 6.0 Marshmallow*Qualcomm Snapdragon 430*Adreno 505*150.00*01/02/2016
+5*BQ AQUARIS M5*Android 5.0 Lollipop*Qualcomm Snapdragon 615*Adreno 405*179.00*01/08/2015
+6*MOTOROLA MOTO E3*Android 6.0.1 Marshmallow*MediaTek MT6735P*Mali T720*98.33*01/09/2016
+6*MOTOROLA MOTO G5*Android 7.0 Nougat*Qualcomm Snapdragon 430*Adreno 505*181.00*01/02/2017
+7*NOKIA LUMIA 830*Android 5.0 Lollipop*Qualcomm Snapdragon 400*Adreno 305*299.00*01/09/2014
+8*WIKO SLIDE*Android 4.4.0 KitKat*MediaTek MT6582*Mali 400*190.00*01/07/2014
+9*SONY XPERIA Z ULTRA*Android 4.2 Jelly Bean*Qualcomm Snapdragon 800*Adreno 330*235.00*01/06/2013
+9*SONY XPERIA L1*Android 7.0 Nougat*Mediatek MT6737T*Mali T720*199.00*01/03/2017
+10*HTC ONE M8*Android 6.0.1 Marshmallow*Qualcomm Snapdragon 801*Adreno 330*235.00*01/03/2014
+10*HTC U11*Android 8.0 Oreo*Qualcomm Snapdragon 835*Adreno 540*749.00*01/05/2017
